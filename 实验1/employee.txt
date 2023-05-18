@@ -1,0 +1,16 @@
+ename	essn	address	salary	superssn	dno
+Messi	E001	Agentina	10000	NULL	D001
+Ronaldo	E002	Portugual	10000	NULL	D002
+Neymar	E003	Brazil	10000	NULL	D003
+Mbappe	E004	France	10000	NULL	D004
+Haaland	E005	Norway	10000	NULL	D005
+Benzema	E006	France	8000	E001	D001
+Lewandowski	E007	Poland	8000	E002	D002
+Vinicius	E008	Brazil	8000	E003	D003
+Sallah	E009	Egypt	8000	E004	D004
+De Bruyne	E010	Belgium	8000	E005	D005
+Modric	E011	Croatia	8000	E001	D001
+Valverde	E012	Uruguay	8000	E002	D002
+Toni Kroos	E013	Germany	8000	E003	D003
+Van Dijk	E014	Netherlands	8000	E004	D004
+Courtois	E015	Belgium	8000	E005	D005
